@@ -31,7 +31,17 @@
 
 
 
-n=[1,6,4,23,12]
+# n=[1,6,4,23,12]
+# i = int(input("Enter a index(0:4):"))
+
+# if(i>=0 and i<5):
+#     print("The value at index",i,"is",n[i])
+    
+# else:
+#     print("index out of range")
+
+
+n=[7, 12, "apple", 3.14, "banana"]
 i = int(input("Enter a index(0:4):"))
 
 if(i>=0 and i<5):
