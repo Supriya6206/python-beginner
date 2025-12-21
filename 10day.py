@@ -41,3 +41,32 @@
 # a=int(input("Enter any number:"))
 # b=int(input("Enter another number:"))
 # print(a+b)
+# print("Hello World!")
+# return function ---> exit the function and go back to the caller
+
+# def show():
+#     print("Hello")
+# show()
+
+
+# def hello():
+#     print("Hello")
+#     return 2
+#     print("hi")
+    
+# print(hello())
+
+
+
+
+#            -------------DJANGO-------------
+
+# library- collections of modules
+# framework- collection of libraries or layout
+
+
+# django performs in MVP(Model View Presenter) architecture
+# model- database
+# view&templates- user interface frontend
+# presenter- business logic(backend)
+
