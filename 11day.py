@@ -7,3 +7,15 @@ student={
 print("Name:",student["name"])
 print("Age:",student["age"])
 print("Course:",student["course"])
+
+marks = {
+    "Math":75,
+    "Physics":85,
+    "Nepali":90
+}
+
+if marks["Physics"] >=40:
+    print("You have passed in Physics")
+    
+else:
+    print("You have failed in Physics")
