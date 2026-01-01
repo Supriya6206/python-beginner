@@ -49,3 +49,17 @@ if(i>=0 and i<5):
     
 else:
     print("index out of range")
+    
+    
+    
+    
+    
+
+n=[7, "wind", "apple", 3.14, "banana","csit"]
+i = int(input("Enter a index(0:5):"))
+
+if(i>=0 and i<6):
+    print("The value at index",i,"is",n[i])
+    
+else:
+    print("index out of range")
